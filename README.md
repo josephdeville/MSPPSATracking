@@ -3,7 +3,7 @@
 
 Built by Joe Deville - Clay Works of Art
 
----
+Unzip then add firecrawl api key and you're good to go
 
 ## 🎯 What This Does
 
